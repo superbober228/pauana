@@ -1,0 +1,29 @@
+
+h2{
+    text-align:left;
+
+}
+h1{
+    text-align: center;
+
+}
+header{
+    background-color: #0099cc;
+    padding: 30px;
+
+}
+main{
+  background-color: #cca300;
+  padding: 10px;
+
+}
+
+ img{
+    text-align: center;
+    padding-left:10px;
+    margin-left: 20px;
+}
+footer{
+  background-color: #00cc66;
+  padding: 20px;
+
